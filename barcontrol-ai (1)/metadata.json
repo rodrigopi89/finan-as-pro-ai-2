@@ -1,0 +1,5 @@
+{
+  "name": "BarControl AI",
+  "description": "Sistema completo de gestão para Bares e Lanchonetes com controle de mesas, comanda, cozinha (KDS), estoque e análise de negócios via IA.",
+  "requestFramePermissions": []
+}
